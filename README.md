@@ -28,7 +28,7 @@ If you do not wish to use this directory, edit `Makefile`.
 
 To download:
 
-    git clone https://github.com/detach8/qemu-server.git
+    git clone https://github.com/detach8/qemu-server-tools.git
 
 To install:
 
